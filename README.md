@@ -1,4 +1,3 @@
-# secure-jobboard-platform
 # 🔐 Secure JobBoard Platform
 > Production-grade recruitment platform where security is a first-class concern 
 at every layer — from HTTPS termination to end-to-end encrypted messaging.
